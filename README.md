@@ -31,6 +31,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 /* write all the steps invloved */
 
 **PROGRAM**
+```
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
@@ -47,6 +48,7 @@ else
 count <= count+1;
 end
 endmodule
+```
 **RTL LOGIC UP COUNTER**
 <img width="1280" height="742" alt="image" src="https://github.com/user-attachments/assets/3f5ba6ad-5f5d-471d-8207-550b3b3dc86f" />
 
